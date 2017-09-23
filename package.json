@@ -1,0 +1,31 @@
+{
+  "name": "Assignment4",
+  "version": "1.0.0",
+  "description": "Routing server-side requests using ExpressJS",
+  "main": "server.js",
+  "author": "Medhir Bhargava",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "mongoose": "^4.2.9",
+    "morgan": "^1.6.1",
+    "request": "^2.82.0"
+  },
+  "devDependencies": {
+    "should": "^7.1.1",
+    "supertest": "^1.1.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CEN3031-spr16/Assignment-4.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/CEN3031-spr16/Assignment-4/issues"
+  },
+  "homepage": "https://github.com/CEN3031-spr16/Assignment-4#readme"
+}
